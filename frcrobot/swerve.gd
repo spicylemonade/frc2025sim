@@ -1,7 +1,7 @@
 extends RigidBody3D
 
-var max_speed: float = 5
-var max_rotation_speed: float = 2.0
+var max_speed: float = 3
+var max_rotation_speed: float = 1
 
 func _physics_process(delta: float) -> void:
 	var forward  = 0.0
