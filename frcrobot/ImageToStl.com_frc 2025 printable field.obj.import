@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d4mdqmvki3d2r"
+path="res://.godot/imported/ImageToStl.com_frc 2025 printable field.obj-6eb2a6fa3c52e0042af74934eb0e65b6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ImageToStl.com_frc 2025 printable field.obj-6eb2a6fa3c52e0042af74934eb0e65b6.mesh"]
+
+source_file="res://ImageToStl.com_frc 2025 printable field.obj"
+dest_files=["res://.godot/imported/ImageToStl.com_frc 2025 printable field.obj-6eb2a6fa3c52e0042af74934eb0e65b6.mesh", "res://.godot/imported/ImageToStl.com_frc 2025 printable field.obj-6eb2a6fa3c52e0042af74934eb0e65b6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
